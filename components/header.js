@@ -3,15 +3,21 @@ export default function Header(){
     return (
         <>
             <header>
-                <sticky-header className="header header-sticky">
+                <div className="header header-sticky">
                     <div className="container">
                         <div className="header-grid justify-content-between">
-                            <div className="mobile-item"><button className="hamburger-menu" type="button"><i className="fal fa-bars"></i></button></div>
+                            <div className="mobile-item"><button className="hamburger-menu" onClick={(e)=>{
+                                document.querySelector('body').classList.add('headeropen');
+                                document.querySelector('.side-menu').classList.add('activeheader');
+                            }} type="button"><i className="fal fa-bars"></i></button></div>
                             <div className="logo-wrapper">
                                 <div className="logo"><Link href="/">PRATHAM WADHWA</Link></div>
                             </div>
                             <div className="side-menu">
-                                <button className="closemenu" type="button"><i className="far fa-times"></i></button>
+                                <button className="closemenu" onClick={(e)=>{
+                                document.querySelector('body').classList.remove('headeropen');
+                                document.querySelector('.side-menu').classList.remove('activeheader');
+                            }} type="button"><i className="far fa-times"></i></button>
                                 <ul className="menu-dropper d-flex">
                                     <li><Link className="active-win" href="/"><span><i className="fas fa-home"></i></span>Home</Link></li>
                                     <li><Link href="/about"><span><i className="fas fa-address-card"></i></span>About</Link></li>
@@ -22,7 +28,7 @@ export default function Header(){
                             </div>
                         </div>  
                     </div>
-                </sticky-header>
+                </div>
             </header>        
         </>
     )

@@ -6,14 +6,14 @@ export default function Project(){
         <Layout>
 
             <main>
-                <section class="contact-banner">
-                    <div class="container">
-                        <div class="head-contact">Project List</div>
+                <section className="contact-banner">
+                    <div className="container">
+                        <div className="head-contact">Project List</div>
                     </div>
                 </section>
-                <section class="list-projects">
-                    <div class="container">
-                        <ul class="list-lates">
+                <section className="list-projects">
+                    <div className="container">
+                        <ul className="list-lates">
                             <li><a href="https://www.kawaiiamai.com">Kawaii Amai - https://www.kawaiiamai.com</a></li>
                             <li><a href="https://mayandco.in">Mayandco - https://mayandco.in</a></li>
                             <li><a href="https://www.newu.in">Newu - https://www.newu.in</a></li>

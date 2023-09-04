@@ -112,6 +112,7 @@ export default function Home(){
                     </div>
                 </div>
             </section>
+            {/*
             <section className="testimonial">
                 <div className="testimonial-wrapper container">
                     <div className="about-header-row" data-aos="fade-up">
@@ -141,6 +142,7 @@ export default function Home(){
                     </div>
                 </div>
             </section>
+            */}
 
         </main>
         </Layout>
