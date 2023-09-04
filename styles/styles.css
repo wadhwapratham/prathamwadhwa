@@ -709,19 +709,7 @@ section.list-projects {
     .activeheader{
         left:0;
     }
-    .headeropen{
-        overflow: hidden;
-    }
-    .headeropen:after {
-        content: "";
-        background: #00000054;
-        position: fixed;
-        top: 0;
-        left: 0;
-        height: 100%;
-        width: 100%;
-        display: block;
-    }
+
     .closemenu{
         display: block;
         background: transparent;
