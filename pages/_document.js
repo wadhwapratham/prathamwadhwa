@@ -13,7 +13,7 @@ export default function Document() {
             <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet"/>
             <link rel="stylesheet" media="all" href="https://pro.fontawesome.com/releases/v5.10.0/css/all.css" />
             <link rel="preconnect" href="https://fonts.googleapis.com"/>
-            <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+            <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin=''/>
             <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet"/>
         </Head>
         <body>

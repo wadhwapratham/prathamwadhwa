@@ -6,11 +6,11 @@ export default function Footer(){
         <footer>
             <div className="container">
                 <div className="footer-part-one row">
-                    <div className="intro-extro col-lg-6 col-sm-12" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+                    <div className="intro-extro col-lg-6 col-sm-12" >
                         <h3 className="dev-name">PRATHAM WADHWA</h3>
                         <p className="excerpt">A Frontend focused Web Developer building the Frontend of Websites and Web Applications that leads to the success of the overall product.</p>
                     </div>
-                    <div className="social col-lg-6 col-sm-12" data-aos="fade-up" data-aos-anchor-placement="top-bottom">
+                    <div className="social col-lg-6 col-sm-12">
                         <h4 className="social-head">SOCIAL</h4>
                         <ul className="list-social">
                             <li><Link href="www.linkedin.com/in/pratham-wadhwa16" title="linkedin"><i className="fab fa-linkedin-in"></i></Link></li>

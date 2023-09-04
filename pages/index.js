@@ -12,7 +12,7 @@ export default function Home(){
                         <div className="col-lg-8 col-md-12 hero-content-box">
                             <h2 data-aos="fade-up" data-aos-duration="3000" className="main-head">Looking for a shopify developer?</h2>
                             <p data-aos="fade-up" data-aos-duration="3000" className="sub-head">You have come to the right place.</p>
-                            <Link href="#" data-aos="fade-up" data-aos-duration="3000" className="btn btn-abt">Know More</Link>
+                            <Link href="/about" data-aos="fade-up" data-aos-duration="3000" className="btn btn-abt">Know More</Link>
                         </div>
                         <div className="col-lg-8 col-md-12 hero-image">
                             <Image src="/images/pratham.png" alt="Pratham Wadhwa" width="300" height="300"/>
