@@ -81,7 +81,7 @@ export default function Home(){
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
                             <h3 className="webname">Biotique</h3>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            <Link href="#" className="btn">Visit Website</Link>
+                            <Link href="https://www.biotique.com/" className="btn">Visit Website</Link>
                         </div>
                         <div className="col-lg-6 col-md-12" data-aos="fade-up">
                             <Image src="/images/biotique.png" alt="" width="300" height="300"/>
@@ -94,14 +94,14 @@ export default function Home(){
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
                             <h3 className="webname">Haldirams Uk</h3>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            <Link href="#" className="btn">Visit Website</Link>
+                            <Link href="https://www.haldiramuk.com/" className="btn">Visit Website</Link>
                         </div>
                     </div>
                     <div className="poject-container row">
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
                             <h3 className="webname">Instax Fujifilms</h3>
                             <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
-                            <Link href="#" className="btn">Visit Website</Link>
+                            <Link href="https://www.instax.in/" className="btn">Visit Website</Link>
                         </div>
                         <div className="col-lg-6 col-md-12" data-aos="fade-up">
                             <Image src="/images/instax.png" alt="" width="300" height="300"/>
