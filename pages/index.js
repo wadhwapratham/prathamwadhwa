@@ -115,7 +115,7 @@ export default function Home(){
             <section className="ads">
                 <div className="adwrap container">
                     <img src="/images/ad1.png" width="300" height="300" alt="shop bestsellers from amazon" />
-                    <a className="btn" target="_blank" href="https://www.amazon.in/b?_encoding=UTF8&tag=prathamwadhwa-21&linkCode=ur2&linkId=c4fc8f823b977da0102f39776c73f81f&camp=3638&creative=24630&node=3561110031">Shop Bestsellers</a>
+                    <a className="btn" target="_blank" href="https://www.amazon.in/b?_encoding=UTF8&tag=prathamwadhwa-21&linkCode=ur2&linkId=a0aaeda9bc6b997aff27899147a12f62&camp=3638&creative=24630&node=976419031">Shop Bestsellers</a>
                 </div>
             </section>
             {/*
