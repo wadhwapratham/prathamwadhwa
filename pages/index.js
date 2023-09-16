@@ -49,9 +49,9 @@ export default function Home(){
                     </div>
                     <div className="about-context row">
                         <div className="content-box col-lg-6 col-md-12" data-aos="fade-up">
-                            <h2 className="second-head">Lorem Ipsum Content</h2>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p><br/>
-                            <p>when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged...</p>
+                            <h2 className="second-head">Get to know more</h2>
+                            <p>Creative, enthusiastic, and task-driven professional with 3+ years of experience in the field of web design and development across various projects. Experienced in developing custom themes and managing ecommerce stores.</p><br/>
+                            <p> I am looking forward to a company that supports learning and growth of its employees as well as provides work life balance...</p>
                             <Link href="/about" className="btn">Know More</Link>
                         </div>
                         <div className="skill-box col-lg-6 col-md-12" data-aos="fade-up">
