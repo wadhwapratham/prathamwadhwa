@@ -108,7 +108,7 @@ export default function Home(){
                         </div>
                     </div>
                     <div className="btn-wrapper" data-aos="fade-up">
-                        <Link href="/project" className="btn">Checkout More</Link>
+                        <Link href="/project" className="btn">Checko    ut More</Link>
                     </div>
                 </div>
             </section>
