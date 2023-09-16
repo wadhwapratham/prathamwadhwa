@@ -170,6 +170,22 @@ section.hero-banner:after {
 	font-size: 18px;
 	font-weight: 500
 }
+.adwrap.container a {
+    position: absolute;
+    top: 0;
+    left: 5%;
+    bottom: 0;
+    margin: auto;
+    height: fit-content;
+    width: fit-content;
+    text-decoration: none;
+}
+section.ads {
+    margin-bottom: 60px;
+}
+.adwrap.container {
+    position: relative;
+}
 
 .counter-box i {
 	font-size: 60px;
@@ -892,4 +908,13 @@ section.list-projects {
     .reviews {
         min-height: 200px;
     }
+    .adwrap.container img {
+        height: 160px;
+        object-fit: cover;
+    }
+    
+.adwrap.container a {
+    position: unset;
+    margin-top: 30px !important;
+}
 }
