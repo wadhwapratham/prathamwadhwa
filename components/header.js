@@ -6,7 +6,7 @@ export default function Header(){
                 <div className="header header-sticky">
                     <div className="container">
                         <div className="header-grid justify-content-between">
-                            <div className="mobile-item"><button className="hamburger-menu" onClick={(e)=>{
+                            <div className="mobile-item"><button aria-label="Open Menu" className="hamburger-menu" onClick={(e)=>{
                                 document.querySelector('body').classList.add('headeropen');
                                 document.querySelector('.side-menu').classList.add('activeheader');
                             }} type="button"><i className="fal fa-bars"></i></button></div>
@@ -14,7 +14,7 @@ export default function Header(){
                                 <div className="logo"><Link href="/">PRATHAM WADHWA</Link></div>
                             </div>
                             <div className="side-menu">
-                                <button className="closemenu" onClick={(e)=>{
+                                <button aria-label="Close Menu" className="closemenu" onClick={(e)=>{
                                 document.querySelector('body').classList.remove('headeropen');
                                 document.querySelector('.side-menu').classList.remove('activeheader');
                             }} type="button"><i className="far fa-times"></i></button>
