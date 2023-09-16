@@ -38,6 +38,7 @@ export default function Project(){
                             <li><a href="https:// petland.ca">Petland Canada : https:// petland.ca</a></li>
                             <li><a href="https://randolphusa.com">Randolph USA : https://randolphusa.com</a></li>
                             <li><a href="https://yufoodlabs.com">yufoodlabs : https://yufoodlabs.com</a></li>
+                            <li><a href="https://xtepindia.com/">Xtep : https://xtepindia.com/</a></li>
                         </ul>
                     </div>
                 </section>
