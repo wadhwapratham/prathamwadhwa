@@ -107,8 +107,8 @@ export default function Home(){
                             <Image src="/images/instax.png" alt="" width="300" height="300"/>
                         </div>
                     </div>
-                    <div className="btn-wrapper" data-aos="fade-up">
-                        <Link href="/project" className="btn">Checko    ut More</Link>
+                    <div className="btn-wrapper">
+                        <Link href="/project" className="btn">Checkout More</Link>
                     </div>
                 </div>
             </section>
