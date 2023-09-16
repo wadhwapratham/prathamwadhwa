@@ -47,7 +47,7 @@ export default function About(){
                 <div className="container timeline-wrapper">
                     <div className="about-header-row" data-aos="fade-up">
                         <h1 className="about-pratham">Professional Timeline</h1>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p>Have a look to my professional timeline and to the awesome companies i have served.</p>
                     </div>
                     <div className="timeline-box">
                         <div className="timeline-left-block timeline-grid" data-aos="fade-up">
@@ -55,7 +55,7 @@ export default function About(){
                                 <h3>Mobikasa</h3>
                                 <p className="company-des">Ecommerce Agency</p>
                                 <span className="duration">Apr-2023 - present</span>
-                                <p className="role">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus molestias fugiat vel aspernatur, dolorum incidunt mollitia</p>
+                                <p className="role">Mobikasa is a top rated ecommerce, web and apps development agency. Hire best Shopify, Shopify Plus, Magento / Adobe, WooCommerce, BigCommerce Developers.</p>
                             </div>
                             <div className="company-image">
                                 <Image src="/images/mobikasa.jpg" alt="mobikasa" className="company-image" width={200} height={200}/>
@@ -72,7 +72,7 @@ export default function About(){
                                 <h3>Lyxel And Flamingo</h3>
                                 <p className="company-des">Digital Marketing Agency</p>
                                 <span className="duration">Apr-2022 - Apr-2023</span>
-                                <p className="role">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus molestias fugiat vel aspernatur, dolorum incidunt mollitia</p>
+                                <p className="role">A collective of super niche, super specialized agencies that help brands imagine the future of their business and marketing in a digital world. The multi-competence, left brain-right brain approach create powerful solutions for brands in an increasingly disruptive world.</p>
                             </div>
                         </div>
 
@@ -81,7 +81,7 @@ export default function About(){
                                 <h3>Creative Orion</h3>
                                 <p className="company-des">Digital Marketing</p>
                                 <span className="duration">Nov-2021 - Mar 2022</span>
-                                <p className="role">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus molestias fugiat vel aspernatur, dolorum incidunt mollitia</p>
+                                <p className="role">Creative Orion is the leading graphic design, Website Design & Branding Company in Faridabad, New Delhi and Gurgaon.</p>
                             </div>
                             <div className="company-image">
                                 <Image src="/images/creative.svg" alt="mobikasa" className="company-image" width={200} height={200}/>
@@ -98,7 +98,7 @@ export default function About(){
                                 <h3>Adaan Digital Solutions</h3>
                                 <p className="company-des">Web Solutions</p>
                                 <span className="duration">July-2021 - Oct 2021</span>
-                                <p className="role">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus molestias fugiat vel aspernatur, dolorum incidunt mollitia</p>
+                                <p className="role">Cost effective & highly competent website designs, content, development, fulfillment, SMM, & digital marketing services targeted for SMB business.</p>
                             </div>
                         </div>
 
@@ -107,7 +107,7 @@ export default function About(){
                                 <h3>Code Crew</h3>
                                 <p className="company-des">Web Solutions</p>
                                 <span className="duration">June-2020 - may 2021</span>
-                                <p className="role">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Natus molestias fugiat vel aspernatur, dolorum incidunt mollitia</p>
+                                <p className="role">Digital Creations & Innovative Solutions. Code Crew is an IT company specializing in professional web design, digital marketing, and custom mobile apps.</p>
                             </div>
                             <div className="company-image">
                                 <Image src="/images/cc.jpg" alt="mobikasa" className="company-image" width={200} height={200}/>

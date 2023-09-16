@@ -75,7 +75,7 @@ export default function Home(){
                 <div className="container">
                     <div className="about-header-row" data-aos="fade-up">
                         <h1 className="about-pratham">Expertise Delivered</h1>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.</p>
+                        <p>See some great expertise delivered till now.</p>
                     </div>
                     <div className="poject-container row">
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
