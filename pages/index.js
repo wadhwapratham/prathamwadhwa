@@ -112,12 +112,12 @@ export default function Home(){
                     </div>
                 </div>
             </section>
-            <section className="ads">
+            {/* <section className="ads">
                 <div className="adwrap container">
                     <img src="/images/ad1.jpg" width="300" height="300" alt="shop bestsellers from amazon" />
                     <a className="btn" target="_blank" href="https://www.amazon.in/b?_encoding=UTF8&tag=prathamwadhwa-21&linkCode=ur2&linkId=a0aaeda9bc6b997aff27899147a12f62&camp=3638&creative=24630&node=976419031">Shop Bestsellers</a>
                 </div>
-            </section>
+            </section> */}
             {/*
             <section className="testimonial">
                 <div className="testimonial-wrapper container">
