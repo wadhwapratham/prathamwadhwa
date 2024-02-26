@@ -30,7 +30,7 @@ export default function Project(){
                                     </a>
                                 </div>
                                 <div className="contact-item">
-                                    <a href="www.linkedin.com/in/pratham-wadhwa16">
+                                    <a href="https://www.linkedin.com/in/pratham-wadhwa16/">
                                         <i className="fab fa-linkedin-in"></i>
                                         <span>pratham-wadhwa16</span>
                                     </a>
