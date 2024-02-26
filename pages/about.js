@@ -138,7 +138,7 @@ export default function About(){
                                 <div className="c-icon"><i className="fab fa-linkedin"></i></div>
                                 <div className="c-details">
                                     <h4>Linkedin</h4>
-                                    <Link href="www.linkedin.com/in/pratham-wadhwa16">pratham-wadhwa16</Link>
+                                    <Link href="https://www.linkedin.com/in/pratham-wadhwa16/">pratham-wadhwa16</Link>
                                 </div>
                             </div>
                         </div>

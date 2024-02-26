@@ -33,12 +33,12 @@ export default function Project(){
                             <li><a href="https://membersonly.com">Members Only : https://membersonly.com</a></li>
                             <li><a href="https://neutraleafindia.com">Neutraleaf India : https://neutraleafindia.com</a></li>
                             <li><a href="https://ary-fj.myshopify.com">Araya : https://ary-fj.myshopify.com</a></li>
-                            <li><a href="https://www.kawaiiamai.com">Devatri Wellness</a></li>
+                            <li><a href="#">Devatri Wellness</a></li>
                             <li><a href="https://www.haldiramuk.com/">HaldiramsUk : https://www.haldiramuk.com/</a></li>
                             <li><a href="https://main-hardwares.myshopify.com">Main Hardware : https://main-hardwares.myshopify.com</a></li>
                             <li><a href="https://grabtocart-store.myshopify.com">Grab To Cart : https://grabtocart-store.myshopify.com</a></li>
                             <li><a href="https://www.reranger.com">ReRanger : https://www.reranger.com</a></li>
-                            <li><a href="https:// petland.ca">Petland Canada : https:// petland.ca</a></li>
+                            <li><a href="https://www.petland.ca/">Petland Canada : https:// petland.ca</a></li>
                             <li><a href="https://randolphusa.com">Randolph USA : https://randolphusa.com</a></li>
                             <li><a href="https://yufoodlabs.com">yufoodlabs : https://yufoodlabs.com</a></li>
                             <li><a href="https://xtepindia.com/">Xtep : https://xtepindia.com/</a></li>
