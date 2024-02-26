@@ -30,7 +30,7 @@ export default function Home(){
                         </div>
                         <div className="counter-box" data-aos="fade-up">
                             <i className="fa fa-thumbs-o-up"></i>
-                            <span className="counter">22</span>
+                            <span className="counter">24</span>
                             <p>Projects Worked On</p>
                         </div>
                         <div className="counter-box" data-aos="fade-up">
@@ -62,6 +62,8 @@ export default function Home(){
                                <li>jquery</li>
                                <li>Javascript</li>
                                <li>Shopify</li>
+                               <li>Shopify 2.0</li>
+                               <li>Shopify Plus</li>
                                <li>Liquid</li>
                                <li>Photoshop</li>
                                <li>UI/UX</li> 

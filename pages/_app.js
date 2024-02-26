@@ -2,6 +2,7 @@
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Head from "next/head";
 
 
 const MyApp = ({ Component, pageProps }) => {
@@ -17,6 +18,9 @@ const MyApp = ({ Component, pageProps }) => {
       }, []);
     return (
       <>
+        <Head>
+          <title>Pratham Wadhwa | Shopify Developer</title>
+        </Head>
         <Component {...pageProps} />
       </>
       

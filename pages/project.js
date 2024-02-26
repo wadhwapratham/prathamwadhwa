@@ -1,10 +1,13 @@
 import Layout from './layout';
 import Link from 'next/link';
 import Image from 'next/image'
+import Head from 'next/head';
 export default function Project(){
     return (
         <Layout>
-
+            <Head>
+                <title>Expertise Delivered | Pratham Wadhwa | Shopify Developer</title>
+            </Head>
             <main>
                 <section className="contact-banner">
                     <div className="container">
@@ -39,6 +42,8 @@ export default function Project(){
                             <li><a href="https://randolphusa.com">Randolph USA : https://randolphusa.com</a></li>
                             <li><a href="https://yufoodlabs.com">yufoodlabs : https://yufoodlabs.com</a></li>
                             <li><a href="https://xtepindia.com/">Xtep : https://xtepindia.com/</a></li>
+                            <li><a href="https://ebec94-3.myshopify.com/">Boito</a></li>
+                            <li><a href="https://confimen.in/">Confimen</a></li>
                         </ul>
                     </div>
                 </section>

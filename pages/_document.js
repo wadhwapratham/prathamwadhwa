@@ -15,7 +15,6 @@ export default function Document() {
             <link rel="preconnect" href="https://fonts.googleapis.com"/>
             <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin=''/>
             <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet"/>
-            <title>Pratham Wadhwa | Shopify Developer</title>
             <meta name="description" content="As a passionate and experienced Shopify developer, I specialize in crafting seamless e-commerce solutions that elevate online businesses. Explore my portfolio to discover a collection of innovative and visually stunning Shopify stores that I've had the privilege to create and work on." />
             <meta name = "keywords" content = "shopify developer in delhi,pratham wadhwa shopify,shopify developer,shopify website designer,shopify experts,shopify dev,shopify theme developer,creating a shopify store,shopify freelancer,freelance shopify developer,shopify experts near me." />  
         </Head>

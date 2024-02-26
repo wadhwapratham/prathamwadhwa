@@ -1,9 +1,13 @@
 import Layout from './layout';
+import Head from 'next/head';
 import Link from 'next/link';
 import Image from 'next/image'
 export default function Project(){
     return (
         <Layout>
+            <Head>
+                <title>Contact Pratham Wadhwa | Shopify Developer</title>
+            </Head> 
                 <main>
                     <section className="contact-banner">
                         <div className="container">

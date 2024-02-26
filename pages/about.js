@@ -1,10 +1,13 @@
 import Layout from './layout';
 import Link from 'next/link';
+import Head from 'next/head';
 import Image from 'next/image'
 export default function About(){
     return (
         <Layout>
-
+        <Head>
+            <title>About Pratham Wadhwa | Shopify Developer</title>
+        </Head>
         <main>
             <section className="about-banner">
                 <div className="container about-wrapper">
@@ -37,7 +40,7 @@ export default function About(){
                                 </ul>
                             </div>
                     </div>
-                    <div className="/image-banner-about">
+                    <div className="image-banner-about">
                         <Image src="/images/about.png" alt="about pratham wadhwa" className="about" width={300} height={300}/>
                     </div>
                 </div>
