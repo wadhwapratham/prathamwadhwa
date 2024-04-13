@@ -25,12 +25,12 @@ export default function Home(){
                     <div className="counter-wrappper">
                         <div className="counter-box" data-aos="fade-up">
                             <i className="fa fa-thumbs-o-up"></i>
-                            <span className="counter">3</span>
+                            <span className="counter">4</span>
                             <p>Total Work Experience</p>
                         </div>
                         <div className="counter-box" data-aos="fade-up">
                             <i className="fa fa-thumbs-o-up"></i>
-                            <span className="counter">24</span>
+                            <span className="counter">30</span>
                             <p>Projects Worked On</p>
                         </div>
                         <div className="counter-box" data-aos="fade-up">

@@ -13,7 +13,7 @@ export default function Footer(){
                     <div className="social col-lg-6 col-sm-12">
                         <h4 className="social-head">SOCIAL</h4>
                         <ul className="list-social">
-                            <li><Link href="www.linkedin.com/in/pratham-wadhwa16" title="linkedin"><i className="fab fa-linkedin-in"></i></Link></li>
+                            <li><Link href="https://www.linkedin.com/in/pratham-wadhwa16" title="linkedin"><i className="fab fa-linkedin-in"></i></Link></li>
                             <li><Link href="https://www.instagram.com/_the_excelsior__/" title="instagram"><i className="fab fa-instagram"></i></Link></li>
                             <li><Link href="/" title="Facebook"><i className="fab fa-facebook-f"></i></Link></li>
                         </ul>
