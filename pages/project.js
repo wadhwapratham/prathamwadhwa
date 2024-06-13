@@ -49,6 +49,9 @@ export default function Project(){
                             <li><a target="_blank" href="https://www.u-lace.com/">Ulace https://www.u-lace.com</a></li>
                             <li><a target="_blank" href="https://aashirvaadchakki.com/">Aashirvaadchakki https://aashirvaadchakki.com</a></li>
                             <li><a target="_blank" href="https://www.haybeach.com/">Haybeach https://www.haybeach.com/</a></li>
+                            <li><a target="_blank" href="https://sowfoods.co/">SowFoods https://sowfoods.co/</a></li>
+                            <li><a target="_blank" href="https://strongandbrave.in/">Strong And Brave https://strongandbrave.in/</a></li>
+                            <li><a target="_blank" href="https://denverformen.com/">Denver https://denverformen.com/</a></li>
                         </ul>
                     </div>
                 </section>

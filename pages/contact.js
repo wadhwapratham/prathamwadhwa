@@ -18,9 +18,9 @@ export default function Project(){
                         <div className="container section-boxed-contact">
                             <div className="contact-droppers">
                                 <div className="contact-item">
-                                    <a href="mailto:wadhwapratham7@gmail.com">
+                                    <a href="mailto:prathamwadhwa.business@gmail.com">
                                         <i className="fas fa-envelope"></i>
-                                        <span>wadhwapratham7@gmail.com</span>
+                                        <span>prathamwadhwa.business@gmail.com</span>
                                     </a>
                                 </div>
                                 <div className="contact-item">
