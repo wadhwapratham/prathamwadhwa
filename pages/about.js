@@ -129,7 +129,7 @@ export default function About(){
                                 <div className="c-icon"><i className="fas fa-envelope"></i></div>
                                 <div className="c-details">
                                     <h4>Email</h4>
-                                    <Link href="mailto:wadhwapratham7@gmail.com">wadhwapratham7@gmail.com</Link>
+                                    <Link href="mailto:prathamwadhwa.business@gmail.com">prathamwadhwa.business@gmail.com</Link>
                                 </div>
                             </div>
                         </div>

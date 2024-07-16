@@ -51,7 +51,11 @@ export default function Project(){
                             <li><a target="_blank" href="https://www.haybeach.com/">Haybeach https://www.haybeach.com/</a></li>
                             <li><a target="_blank" href="https://sowfoods.co/">SowFoods https://sowfoods.co/</a></li>
                             <li><a target="_blank" href="https://strongandbrave.in/">Strong And Brave https://strongandbrave.in/</a></li>
-                            <li><a target="_blank" href="https://denverformen.com/">Denver https://denverformen.com/</a></li>
+                            <li><a target="_blank" href="https://in.shop.lighting.philips.com/">Philips Lighting https://in.shop.lighting.philips.com/</a></li>
+                            <li><a target="_blank" href="https://byroe.com/">Byroe https://byroe.com/</a></li>
+                            <li><a target="_blank" href="https://sowfoods.co/">SowFoods https://sowfoods.co/</a></li>  
+                            <li><a target="_blank" href="https://www.merarang.com/">Merarang https://www.merarang.com/</a></li>  
+                            <li><a target="_blank" href="https://tensnet.com/">Tensnet https://tensnet.com/</a></li>  
                         </ul>
                     </div>
                 </section>
