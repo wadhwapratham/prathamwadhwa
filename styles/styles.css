@@ -298,7 +298,9 @@ ul.skill-wrapper {
 
 ul.skill-wrapper li {
     display: flex;
-    width: 100px;
+    min-width: 100px;
+    max-width: max-content;
+    padding: 0 10px;;
     background: #adc4ce;
     justify-content: center;
     align-items: center;

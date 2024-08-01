@@ -12,14 +12,14 @@ export default function About(){
             <section className="about-banner">
                 <div className="container about-wrapper">
                     <div className="about-block" data-aos="fade-up">
-                        <h1 className="about-head">About Me</h1>
-                        <p>Creative, enthusiastic, and task-driven professional with 3+
+                        <h1 className="about-head">Pratham Wadhwa</h1>
+                        {/* <p>Creative, enthusiastic, and task-driven professional with 3+
                             years of experience in the field of web design and development
                             across various projects. Experienced in developing custom
                             themes and managing ecommerce stores. I am looking forward
                             to a company that supports learning and growth of its
                             employees.
-                            </p>
+                            </p> */}
                             <div className="skill-box" data-aos="fade-up">
                                 <h2 className="second-head">Educational insights.</h2>
                                 <div className="degree">
@@ -42,6 +42,43 @@ export default function About(){
                     </div>
                     <div className="image-banner-about">
                         <Image src="/images/about.png" alt="about pratham wadhwa" className="about" width={300} height={300}/>
+                    </div>
+                </div>
+            </section>
+
+            <section className="about-us-pr">
+                <div className="container">
+                    <div className="about-header-rows" data-aos="fade-up">
+                        <h1 className="about-pratham">About Me</h1>
+                        <p>A Frontend focused Web Developer building the Frontend of Websites that leads to the success of the overall product.</p>
+                    </div>
+                    <div className="about-context row">
+                        <div className="content-box col-lg-6 col-md-12" data-aos="fade-up">
+                            <h2 className="second-head">Get to know more</h2>
+                            <p>Creative, enthusiastic, and task-driven professional with 3+ years of experience in the field of web design and development across various projects. Experienced in developing custom themes and managing ecommerce stores.</p><br/>
+                            <p> I am looking forward to a company that supports learning and growth of its employees as well as provides work life balance...</p>
+                            <Link href="/about" className="btn">Know More</Link>
+                        </div>
+                        <div className="skill-box col-lg-6 col-md-12" data-aos="fade-up">
+                            <h2 className="second-head">Skills</h2>
+                            <ul className="skill-wrapper">
+                               <li>HTML</li>
+                               <li>CSS</li>
+                               <li>jQuery</li>
+                               <li>Javascript</li>
+                               <li>Shopify</li>
+                               <li>Shopify 2.0</li>
+                               <li>Shopify Plus</li>
+                               <li>Liquid</li>
+                               <li>Photoshop</li>
+                               <li>UI/UX</li> 
+                               <li>ADA</li>
+                               <li>Wix</li> 
+                               <li>Documentation</li>
+                               <li>GIT Version Control</li>  
+                               <li>SEO</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </section>

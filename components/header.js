@@ -22,7 +22,7 @@ export default function Header(){
                                     <li><Link className="active-win" href="/"><span><i className="fas fa-home"></i></span>Home</Link></li>
                                     <li><Link href="/about"><span><i className="fas fa-address-card"></i></span>About</Link></li>
                                     <li><Link href="/project"><span><i className="fas fa-file-chart-line"></i></span>Latest Projects</Link></li>
-                                    <li><Link href="/resume_new.pdf" target="_blank"><span><i className="fas fa-file-user"></i></span>Resume</Link></li>
+                                    <li><Link href="/prathamCV.pdf" target="_blank"><span><i className="fas fa-file-user"></i></span>Resume</Link></li>
                                     <li><Link href="/contact"><span><i className="fas fa-envelope"></i></span>Contact</Link></li>
                                 </ul>
                             </div>
