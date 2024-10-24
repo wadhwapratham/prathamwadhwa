@@ -66,7 +66,8 @@ export default function Home(){
                                <li>Shopify Plus</li>
                                <li>Liquid</li>
                                <li>Photoshop</li>
-                               <li>UI/UX</li> 
+                               <li>UI/UX</li>
+                               <li>ADA</li>
                             </ul>
                         </div>
                     </div>
