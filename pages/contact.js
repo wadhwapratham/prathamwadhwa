@@ -24,9 +24,9 @@ export default function Project(){
                                     </a>
                                 </div>
                                 <div className="contact-item">
-                                    <a href="https://wa.me/9720809052">
-                                        <i className="fab fa-whatsapp"></i>
-                                        <span>+91 9720809052</span>
+                                    <a href="https://calendly.com/prathamwadhwa-business/30min">
+                                        <i className="far fa-calendar-alt"></i>
+                                        <span>Schedule Meeting (Consultation Starts From 500Rs)</span>
                                     </a>
                                 </div>
                                 <div className="contact-item">
