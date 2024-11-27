@@ -30,7 +30,7 @@ export default function Home(){
                         </div>
                         <div className="counter-box" data-aos="fade-up">
                             <i className="fa fa-thumbs-o-up"></i>
-                            <span className="counter">30</span>
+                            <span className="counter">40</span>
                             <p>Projects Worked On</p>
                         </div>
                         <div className="counter-box" data-aos="fade-up">
@@ -84,7 +84,7 @@ export default function Home(){
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
                             <h3 className="webname">Biotique</h3>
                             <p>A combination of the 5,000-year-old science of Ayurveda and 21st-century biotechnology. A dream that has today become a global reality. We are synonymous with serious skin and hair care developed from Ayurveda, the principal medical tradition in India for over 5000 years.</p>
-                            <Link href="https://www.biotique.com/" className="btn">Visit Website</Link>
+                            <Link rel="nofollow" href="https://www.biotique.com/" className="btn">Visit Website</Link>
                         </div>
                         <div className="col-lg-6 col-md-12" data-aos="fade-up">
                             <Image src="/images/biotique.png" alt="" width="300" height="300"/>
@@ -97,14 +97,14 @@ export default function Home(){
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
                             <h3 className="webname">Haldirams Uk</h3>
                             <p>Haldiram is a name associated with the finest and authentic Indian taste in Sweets and Namkeens. We started our journey in 1937 at Bikaner, Rajasthan and today have an outstanding presence in India and across the globe.</p>
-                            <Link href="https://www.haldiramuk.com/" className="btn">Visit Website</Link>
+                            <Link rel="nofollow" href="https://www.haldiramuk.com/" className="btn">Visit Website</Link>
                         </div>
                     </div>
                     <div className="poject-container row">
                         <div className="col-lg-6 col-md-12 data-box" data-aos="fade-up">
                             <h3 className="webname">Instax Fujifilms</h3>
                             <p>Fujifilm Instax is a brand of instant still cameras and instant films, manufactured and marketed by Fujifilm. Instax was first introduced to the world in 1998, and was brought to India in 2010. Fujifilm Instax instant cameras are based on the instant film system,and are defined by three formats of films: Mini, Square, and Wide.</p>
-                            <Link href="https://www.instax.in/" className="btn">Visit Website</Link>
+                            <Link rel="nofollow" href="https://www.instax.in/" className="btn">Visit Website</Link>
                         </div>
                         <div className="col-lg-6 col-md-12" data-aos="fade-up">
                             <Image src="/images/instax.png" alt="" width="300" height="300"/>
