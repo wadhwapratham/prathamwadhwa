@@ -50,7 +50,7 @@ export default function Home(){
                     <div className="about-context row">
                         <div className="content-box col-lg-6 col-md-12" data-aos="fade-up">
                             <h2 className="second-head">Get to know more</h2>
-                            <p>Creative, enthusiastic, and task-driven professional with 3+ years of experience in the field of web design and development across various projects. Experienced in developing custom themes and managing ecommerce stores.</p><br/>
+                            <p>Creative, enthusiastic, and task-driven professional with 4+ years of experience in the field of web design and development across various projects. Experienced in developing custom themes and managing ecommerce stores.</p><br/>
                             <p> I am looking forward to a company that supports learning and growth of its employees as well as provides work life balance...</p>
                             <Link href="/about" className="btn">Know More</Link>
                         </div>
@@ -61,20 +61,29 @@ export default function Home(){
                                <li>CSS</li>
                                <li>jquery</li>
                                <li>Javascript</li>
+                               <li>AJAX</li>
                                <li>Shopify</li>
                                <li>Shopify 2.0</li>
                                <li>Shopify Plus</li>
+                               <li>Metafields / Metaobjects</li>
                                <li>Liquid</li>
                                <li>Photoshop</li>
                                <li>UI/UX</li>
                                <li>ADA</li>
+                               <li>SEO</li>
+                               <li>CRO</li>
+                               <li>Wix</li>
+                               <li>Wordpress</li>
+                               <li>Web Design</li>
+                               <li>Documentation</li>
+                               <li>GIT Version Control</li>
                             </ul>
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> 
 
-            <section className="project-summary">
+            {/* <section className="project-summary">
                 <div className="container">
                     <div className="about-header-row" data-aos="fade-up">
                         <h1 className="about-pratham">Expertise Delivered</h1>
@@ -114,7 +123,7 @@ export default function Home(){
                         <Link href="/project" className="btn">Checkout More</Link>
                     </div>
                 </div>
-            </section>
+            </section> */}
             {/* <section className="ads">
                 <div className="adwrap container">
                     <img src="/images/ad1.jpg" width="300" height="300" alt="shop bestsellers from amazon" />

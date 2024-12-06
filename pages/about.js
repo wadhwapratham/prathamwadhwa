@@ -55,28 +55,33 @@ export default function About(){
                     <div className="about-context row">
                         <div className="content-box col-lg-6 col-md-12" data-aos="fade-up">
                             <h2 className="second-head">Get to know more</h2>
-                            <p>Creative, enthusiastic, and task-driven professional with 3+ years of experience in the field of web design and development across various projects. Experienced in developing custom themes and managing ecommerce stores.</p><br/>
+                            <p>Creative, enthusiastic, and task-driven professional with 4+ years of experience in the field of web design and development across various projects. Experienced in developing custom themes and managing ecommerce stores.</p><br/>
                             <p> I am looking forward to a company that supports learning and growth of its employees as well as provides work life balance...</p>
                             <Link href="/about" className="btn">Know More</Link>
                         </div>
                         <div className="skill-box col-lg-6 col-md-12" data-aos="fade-up">
                             <h2 className="second-head">Skills</h2>
                             <ul className="skill-wrapper">
-                               <li>HTML</li>
+                            <li>HTML</li>
                                <li>CSS</li>
-                               <li>jQuery</li>
+                               <li>jquery</li>
                                <li>Javascript</li>
+                               <li>AJAX</li>
                                <li>Shopify</li>
                                <li>Shopify 2.0</li>
                                <li>Shopify Plus</li>
+                               <li>Metafields / Metaobjects</li>
                                <li>Liquid</li>
                                <li>Photoshop</li>
-                               <li>UI/UX</li> 
+                               <li>UI/UX</li>
                                <li>ADA</li>
-                               <li>Wix</li> 
-                               <li>Documentation</li>
-                               <li>GIT Version Control</li>  
                                <li>SEO</li>
+                               <li>CRO</li>
+                               <li>Wix</li>
+                               <li>Wordpress</li>
+                               <li>Web Design</li>
+                               <li>Documentation</li>
+                               <li>GIT Version Control</li>
                             </ul>
                         </div>
                     </div>
