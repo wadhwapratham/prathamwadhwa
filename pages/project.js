@@ -60,6 +60,8 @@ export default function Project(){
                             <li><a rel="nofollow" target="_blank" href="https://viva-vetro.com/">Viva Vetro https://viva-vetro.com/</a></li>  
                             <li><a rel="nofollow" target="_blank" href="https://gaymedlabs.com/">GLPL https://gaymedlabs.com/</a></li>  
                             <li><a rel="nofollow" target="_blank" href="https://www.theeventtales.in/">TheEventTales https://www.theeventtales.in/</a></li>  
+                            <li><a rel="nofollow" target="_blank" href="https://leefordcosmacia.in/">Cosmacia https://leefordcosmacia.in/</a></li>  
+                            <li><a rel="nofollow" target="_blank" href="https://meglow.in/">Meglow https://meglow.in/</a></li>  
                         </ul>
                     </div>  
                 </section>
