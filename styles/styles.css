@@ -296,6 +296,11 @@ ul.skill-wrapper {
     gap: 10px;
 }
 
+.company-image.almond-studio {
+    background: #475e3d;
+    padding: 60px 30px;
+}
+
 ul.skill-wrapper li {
     display: flex;
     min-width: 100px;
