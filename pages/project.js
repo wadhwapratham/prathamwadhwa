@@ -61,9 +61,12 @@ export default function Project(){
                             <li><a rel="nofollow" target="_blank" href="https://gaymedlabs.com/">GLPL https://gaymedlabs.com/</a></li>  
                             <li><a rel="nofollow" target="_blank" href="https://www.theeventtales.in/">TheEventTales https://www.theeventtales.in/</a></li>  
                             <li><a rel="nofollow" target="_blank" href="https://leefordcosmacia.in/">Cosmacia https://leefordcosmacia.in/</a></li>  
-                            <li><a rel="nofollow" target="_blank" href="https://meglow.in/">Meglow https://meglow.in/</a></li>  
+                            <li><a rel="nofollow" target="_blank" href="https://meglow.in/">Meglow https://meglow.in/</a></li>
+                            <li><a rel="nofollow" target="_blank" href="https://serekoshop.com/">Sereko https://serekoshop.com/</a></li>
+                            <li><a rel="nofollow" target="_blank" href="https://neroindia.com/">Nero India https://neroindia.com/</a></li>
+                            <li><a rel="nofollow" target="_blank" href="https://feastfast.co/">FeastFast https://feastfast.co/</a></li>
                         </ul>
-                    </div>  
+                    </div>   
                 </section>
             </main>
         </Layout>
