@@ -99,7 +99,7 @@ export default function About(){
                         <div className="timeline-left-block timeline-grid" data-aos="fade-up">
                             <div className="company-details">
                                 <h3>Studio Almond</h3>
-                                <p className="company-des">Ecommerce Agency</p>
+                                <p className="company-des">Shopify Plus Experts</p>
                                 <span className="duration">Feb-2025 - present</span>
                                 <p className="role">Mobikasa is a top rated ecommerce, web and apps development agency. Hire best Shopify, Shopify Plus, Magento / Adobe, WooCommerce, BigCommerce Developers.</p>
                             </div>
@@ -127,8 +127,8 @@ export default function About(){
                         <div className="timeline-right-block timeline-grid" data-aos="fade-up">
                             <div className="company-details">
                                 <h3>Mobikasa</h3>
-                                <p className="company-des">Ecommerce Agency</p>
-                                <span className="duration">Apr-2023 - present</span>
+                                <p className="company-des">Ecommerce Agency</p> 
+                                <span className="duration">Apr-2023 - Feb-2025</span>
                                 <p className="role">Mobikasa is a top rated ecommerce, web and apps development agency. Hire best Shopify, Shopify Plus, Magento / Adobe, WooCommerce, BigCommerce Developers.</p>
                             </div>
                             <div className="company-image">
