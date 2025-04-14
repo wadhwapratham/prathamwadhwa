@@ -101,7 +101,7 @@ export default function About(){
                                 <h3>Studio Almond</h3>
                                 <p className="company-des">Shopify Plus Experts</p>
                                 <span className="duration">Feb-2025 - present</span>
-                                <p className="role">Mobikasa is a top rated ecommerce, web and apps development agency. Hire best Shopify, Shopify Plus, Magento / Adobe, WooCommerce, BigCommerce Developers.</p>
+                                <p className="role">Based in Auckland, New Zealand — Leading CMS Migration Experts | Pixel Perfect Designs | Client Focus | Contact Us Today. We Design & Build Elegant Digital Solutions Which Focus On Outstanding User Experience. UX/UI Design. Web Development. Complete Website Autonomy. Digital Strategy.</p> 
                             </div>
                             <div className="company-image almond-studio">
                             <svg xmlns="http://www.w3.org/2000/svg" width="135" height="16" viewBox="0 0 135 16" fill="none">
